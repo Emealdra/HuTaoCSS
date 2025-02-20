@@ -102,15 +102,15 @@ h1 {
 #gallery .container img {
 	width: 100%;
 	height: 100%;
-	object-fit: cover; /* Prevents image distortion */
-	border-radius: 5px; /* Optional rounded edges */
+	object-fit: cover; 
+	border-radius: 5px; 
 }
 
 #gallery .container img {
 	width: 100%;
 	height: 100%;
-	object-fit: cover; /* Cuts off excess part of image */
-	border-radius: 5px; /* Optional rounded edges */
+	object-fit: cover; 
+	border-radius: 5px; 
 }
 
 .h2line {
@@ -160,3 +160,12 @@ h1 {
 	font-size: 20px;
 }
 
+#contact button {
+	background-color: #6d2323;
+	color: #fef9e1;
+	border-radius: 10%;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding: 10px;
+	margin-top: 10px;
+	border: 0px white;
+}
