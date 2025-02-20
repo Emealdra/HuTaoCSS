@@ -160,7 +160,7 @@ h1 {
 	font-size: 20px;
 }
 
-#contact button {
+.contact-button {
 	background-color: #6d2323;
 	color: #fef9e1;
 	border-radius: 10%;
